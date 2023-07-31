@@ -231,3 +231,224 @@
 </body>
 
 </html>
+
+
+
+CSS 
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-heading-1st {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.top-section-1st {
+    height: 28vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    width: 400px;
+    margin: 20px;
+}
+
+.top-section-heading-1st {
+    color: #ffffff;
+    padding: 15px;
+    font-size: 30px;
+    text-align: left;
+
+}
+
+.bottom-section-st {
+    padding: 20px;
+}
+
+.bottom-card-container-1st {
+    padding: 20px;
+}
+
+.bottom-section-image-1st {
+    height: 120px;
+    width: 120px;
+}
+
+.bottom-container-heading-1st {
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    color: #151765;
+    font-weight: bold;
+}
+
+.bottom-card-description-1st {
+    text-align: center;
+    color: #5a7184;
+}
+
+.main-heading {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.top-card-container {
+    height: 26vh;
+    width: 400px;
+    background-color: #151765;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.puri-card-image {
+    height: 110px;
+    margin: 10px;
+}
+
+.top-card-description {
+    color: #ffffff;
+}
+
+.top-card-description-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.top-card-description-last-line {
+    font-size: 11px;
+    color: #ffffff;
+}
+
+.top-card-container-1 {
+    height: 26vh;
+    width: 400px;
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+}
+
+.top-container-1-heading {
+    font-size: 17px;
+    padding: 5px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.top-container-1-description {
+    font-weight: 400;
+    color: #5a7184;
+}
+
+.top-container-1-last-line {
+    font-size: 10px;
+    font-weight: 500;
+    color: #151765;
+}
+
+.button-container {
+    text-align: right;
+}
+
+.button {
+    height: 30px;
+    width: 120px;
+    margin: 30px;
+    background-color: #151765;
+    border-radius: 20px;
+    color: #ffffff;
+    border-width: 0px;
+}
+
+.top-card-description-heading-font {
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-heading {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.top-card-container {
+    height: 24vh;
+    width: 400px;
+    background-color: #151765;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.puri-card-image {
+    height: 110px;
+    margin: 10px;
+}
+
+.top-card-description {
+    color: #ffffff;
+}
+
+.top-card-description-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.top-card-description-last-line {
+    font-size: 11px;
+    color: #ffffff;
+}
+
+.top-card-container-1 {
+    height: 26vh;
+    width: 400px;
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+}
+
+.top-container-1-heading {
+    font-size: 17px;
+    padding: 5px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.top-container-1-description {
+    font-weight: 400;
+    color: #5a7184;
+}
+
+.top-container-1-last-line {
+    font-size: 10px;
+    font-weight: 500;
+    color: #151765;
+}
+
+.button-container {
+    text-align: right;
+}
+
+.button {
+    height: 30px;
+    width: 120px;
+    margin: 30px;
+    background-color: #151765;
+    border-radius: 20px;
+    color: #ffffff;
+    border-width: 0px;
+}
